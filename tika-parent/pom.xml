@@ -284,7 +284,7 @@
     <maven.surefire.version>3.0.0-M5</maven.surefire.version>
     <maven.shade.version>3.2.4</maven.shade.version>
     <!-- need above java 8 for 10.0 -->
-    <puppycrawl.version>9.3</puppycrawl.version>
+    <puppycrawl.version>10.3.1</puppycrawl.version>
     <rat.version>0.13</rat.version>
 
     <!-- dependency versions -->
